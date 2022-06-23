@@ -1,0 +1,27 @@
+.Switch {
+
+    border: 2px solid black;
+
+    width: 150px;
+    display: flex;
+    flex-direction: column;
+
+    margin: auto;
+    margin-top: 150px;
+
+    align-items: center;
+    justify-content: center;
+   
+
+
+}
+
+div {
+    align-items: center;
+    justify-content: center;
+}
+
+.On {
+    background-color: blue;
+    color: wheat;
+}
